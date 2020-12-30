@@ -1,0 +1,25 @@
+{
+  "name": "image-lambda",
+  "version": "1.0.0",
+  "description": "- AWSImageResizeS3Policy - ImageResizeS3Role - Followed These [AWS Docs](https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html) - Unsplash Test Photo [Credit](https://unsplash.com/photos/jwqgM5o6TVM)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aysiabrown-401d39-advanced-javascript/image-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aysiabrown-401d39-advanced-javascript/image-lambda/issues"
+  },
+  "homepage": "https://github.com/aysiabrown-401d39-advanced-javascript/image-lambda#readme",
+  "dependencies": {
+    "aws-sdk": "^2.819.0",
+    "sharp": "^0.27.0",
+    "util": "^0.12.3"
+  }
+}
